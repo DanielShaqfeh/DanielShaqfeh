@@ -4,7 +4,7 @@
 I build stuff, break stuff, solve coding problems 🐼 
 
 <p align="center">
-  <img src="ah-shit-here-we-go-again.gif" 
+  <img src="https://github.com/DanielShaqfeh/DanielShaqfeh/blob/main/ah-shit-here-we-go-again.gif" 
        alt="ah-shit-here-we-go-again" width="300"/>
 </p>
 
