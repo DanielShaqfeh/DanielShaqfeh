@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">
-  💻 Computer Science Graduate | 🧠 Full-Stack Developer | 🏆 Competitive Programmer
+  💻 Computer Science Graduate | 🧠 Full-Stack Developer | 🏆 Competitive Programmer • ACPC Finalist  
 </h3>
 
 <p align="center">
@@ -31,5 +31,6 @@
 
 ### 🧠 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,cpp,python,postgresql,mongodb,postman,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,cpp,python,postgresql,mongodb,postman,git,github,vscode,bootstrap"/>
 </p>
+
