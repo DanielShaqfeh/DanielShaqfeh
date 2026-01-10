@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm <span style="color:#00FFB2;">Daniel Shaqfeh</span> 👋 </h1> 
 
 <p align="center">
-  <img src="assets/welcome.png" alt="Welcome" width="250"/>
+  <img src="assets/poImg.png" alt="Welcome" width="250"/>
 </p>
 
 <h3 align="center">
