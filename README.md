@@ -1,46 +1,50 @@
-<h1 align="center">Hi, I'm <span style="color:#00FFB2;">Daniel Shaqfeh</span> 👋 </h1> 
+<h1 align="center">Daniel Shaqfeh 👋</h1>
 
 <p align="center">
-  <img src="assets/poImg.png" alt="Welcome" width="250"/>
+Computer Science Graduate • Full-Stack Developer • Competitive Programmer
 </p>
 
-<h3 align="center">
-  💻 Computer Science Graduate | 🧠 Full-Stack Developer | 🏆 Competitive Programmer • ACPC Finalist  
-</h3>
-
 <p align="center">
-  I build stuff, break stuff, solve coding problems 🐼
+🏆 ACPC Finalist
 </p>
 
 ---
 
-### ✉️ Let's Connect
+## About Me
+
+- 💻 Full-Stack Developer  
+- 🧠 Competitive Programmer  
+- ⚡ Passionate about building web apps and solving algorithmic problems  
+
+---
+
+## Tech Stack
+
 <p align="center">
-  <a href="mailto:danielshaqfeh@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/daniel-shaqfeh-8021a8253/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/An9on" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,cpp,python,postgresql,mongodb,git,github,vscode"/>
 </p>
 
 ---
 
-### 🧠 Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,js,ts,cpp,python,postgresql,mongodb,postman,git,github,vscode,bootstrap"/>
-</p>
+## Portfolio
 
-### 🌐 My Portfolio
+🌐 **Website:**  
+https://portfolio-theta-puce-24.vercel.app/
+
+---
+
+## Connect
+
 <p align="center">
-  <a href="https://portfolio-theta-puce-24.vercel.app/" target="_blank">
-    <b>👉 Visit My Portfolio</b>
+  <a href="mailto:danielshaqfeh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/daniel-shaqfeh-8021a8253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/An9on">
+    <img src="https://img.shields.io/badge/Codeforces-445F9D?style=flat&logo=codeforces&logoColor=white"/>
   </a>
 </p>
-
-
-
-
